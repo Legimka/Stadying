@@ -1,1 +1,5 @@
-print('HELLO WORLD')
+if int(input()) >= 5:
+    print('HELLO WORLD')
+else:
+    print('GG')
+    
