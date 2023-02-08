@@ -1,5 +1,5 @@
 if int(input()) >= 5:
-    print('HELLO WORLD')
+   print('HELLO WORLD')
 else:
-    print('GG')
+   print('GG')
     
